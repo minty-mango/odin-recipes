@@ -17,7 +17,7 @@ This will not include:
 * CSS 
 * JS 
 
-This we will be using:
+Elements we will be using:
 * Unordered List `<ul>`
 * Orderered List `<ol>`
 * Images `<img>`
